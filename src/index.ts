@@ -7,7 +7,6 @@ export default function (
   options: UserPluginOptions
 ): Plugin<unknown> {
   const { id, paths, ...loaderOptions } = options;
-  console.log("test plugin");
 
   return {
     name: "docusaurus-plugin-face-crop",
