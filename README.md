@@ -4,10 +4,10 @@ Docusaurus v2 plugin to crop faces in images.
 
 ## Getting Started
 
-To begin, you'll need to install `docusaurus-plugin-face-crop` and `webpack-face-crop-loader`:
+To begin, you'll need to install `docusaurus-plugin-face-crop`:
 
 ```console
-$ npm install webpack-face-crop-loader docusaurus-plugin-face-crop --save-dev
+$ npm install docusaurus-plugin-face-crop --save-dev
 ```
 
 Then add the plugin to your `docusaurus.config.js` config. For example:

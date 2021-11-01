@@ -19,7 +19,7 @@ export default function (
               include: options.paths,
               use: [
                 {
-                  loader: "webpack-face-crop-loader",
+                  loader: require.resolve("webpack-face-crop-loader"),
                   options: loaderOptions,
                 },
               ],

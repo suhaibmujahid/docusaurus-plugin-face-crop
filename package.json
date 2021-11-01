@@ -20,13 +20,12 @@
     "url": "https://github.com/suhaibmujahid/docusaurus-plugin-face-crop/issues"
   },
   "homepage": "https://github.com/suhaibmujahid/docusaurus-plugin-face-crop#readme",
-  "peerDependencies": {
+  "dependencies": {
     "webpack-face-crop-loader": "^1.0.5"
   },
   "devDependencies": {
     "@docusaurus/types": "^2.0.0-beta.8",
-    "typescript": "^4.4.4",
-    "webpack-face-crop-loader": "^1.0.5"
+    "typescript": "^4.4.4"
   },
   "keywords": [
     "docusaurus",
