@@ -1,6 +1,6 @@
 {
   "name": "docusaurus-plugin-face-crop",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Docusaurus v2 plugin to crop faces in images",
   "main": "dist/index.js",
   "scripts": {
