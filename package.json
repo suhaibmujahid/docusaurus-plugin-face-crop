@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/suhaibmujahid/docusaurus-plugin-face-crop#readme",
   "dependencies": {
-    "webpack-face-crop-loader": "^1.0.6"
+    "webpack-face-crop-loader": "^1.0.7"
   },
   "devDependencies": {
     "@docusaurus/types": "^2.0.0-beta.8",
